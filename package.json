@@ -37,7 +37,11 @@
   "bugs": {
     "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
   },
+<<<<<<< HEAD
   "scripts": {
+=======
+ "scripts": {
+>>>>>>> 0c9c0a73d1ce7b2ecf8f9c2be1c61ed939034c78
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
